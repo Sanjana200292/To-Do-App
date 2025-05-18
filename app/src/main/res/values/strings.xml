@@ -1,0 +1,33 @@
+<resources>
+    <string name="relapse">Relapse</string>
+    <string name="app_name">To Do</string>
+    <string name="change_time">Change Time</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="add_rename_hint">Name</string>
+    <string name="redact_hint">Comment</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty">Field is empty</string>
+    <string name="error">Error! Please try again later</string>
+    <string name="again">Try again</string>
+    <string name="enter_name">Enter To Do Task</string>
+    <string name="sure_delete_habit">Are you sure you want to remove this Task?</string>
+    <string name="sure_delete_case">Are you sure you want to remove this Task?</string>
+    <string name="comment">Task</string>
+    <string name="empty_list">You have no Task</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="redact_comment">Rename Task</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="min">Min</string>
+    <string name="sec">Sec</string>
+    <string name="Months">Months</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="set">Set</string>
+
+
+
+
+</resources>

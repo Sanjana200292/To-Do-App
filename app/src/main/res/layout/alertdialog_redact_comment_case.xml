@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textfield.TextInputLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="22dp"
+    android:paddingEnd="22dp"
+    android:paddingTop="22dp"
+    android:paddingBottom="22dp">
+
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/commentCaseEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="text"
+        android:imeOptions="actionDone"
+        android:inputType="text"
+        android:paddingStart="0dp"
+        android:paddingEnd="0dp"
+        android:selectAllOnFocus="true" />
+
+</com.google.android.material.textfield.TextInputLayout>

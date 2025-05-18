@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cards">#1a5276</color>
+    <color name="background">#d5dbdb</color>
+    <color name="white">#ed5f1e </color>
+    <color name="gray">#F5EFFF</color>
+    <color name="black">#384B70</color>
+    <color name="toggle">#1a5276</color>
+
+<!--    <color name="background_notnight">#FFFFFF</color>-->
+<!--    <color name="cards_notnight">#7875BF</color>-->
+<!--    <color name="buttons_notnight">#423D99</color>-->
+</resources>
